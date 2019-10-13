@@ -39,13 +39,10 @@ So I'm implementing a system that can help me to store and share lists of movies
 
 ## Validation
 ### What we already know?
-I will reuse the framework from projectA which can help us create an API system.
-
-I will deploy the server to heroku.
-
-I will use mongoose and MongoDB for database.
-
-I take ownership of defining of done.
+I will reuse the framework from projectA which can help us create an API system. <br/>
+I will deploy the server to heroku. <br/>
+I will use mongoose and MongoDB for database. <br/>
+I take ownership of defining of done. <br/>
 
 ### What do we need to answer?
 - [ ] What security configurations will I apply on the system?
@@ -60,7 +57,7 @@ I take ownership of defining of done.
 1. [Learn about node.js security](https://github.com/iamacoderguy/projectB/issues/1) :heavy_check_mark:
 1. [Learn about non-relational DB](https://github.com/iamacoderguy/projectB/issues/2)
 
-I will define the requirements and apis so that they will match to my the DB knowledge I'd like to learn. <br/>
+I will define the requirements and APIs so that they will match to the DB knowledge I'd like to learn. <br/>
 Then I will develop the system, and try to attack it with the security knowledge. <br/>
 Sharing the security knowledge after fixing the threats and vulnerability would be the final step for this project.
 
