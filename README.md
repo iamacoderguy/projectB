@@ -8,7 +8,7 @@ projectB is the 2nd one of 26 projects from A to Z that I intend to develop on t
 
 After the projectA, I realize that even learning by practicing, it still takes much time to master a knowledge domain. Thus, instead of learning knowledge about server, client and DevOps at the same time, I will focus on back-end and come back later for other parts.
 
-projectB will last in one month from Oct 12 to Nov 8. I will focus on database and security configuration.
+projectB will last in two months from Oct 12 to Dec 6. I will focus on database (the 1st month) and security configuration (the 2nd month).
 
 Team project owner |
 ------------------ |
@@ -64,4 +64,5 @@ It can help me to learn about basics of database and security.
 TBD
 
 ### Scale and scope
-TBD
+For the 1st month, Oct 12 to Nov 8: I will focus on developing the back-end server integrating to MongoDB and providing the movies service
+For the 2nd month, Nov 9 to Dec 6: I will focus on attacking and defending my server
