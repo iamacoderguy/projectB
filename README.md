@@ -54,8 +54,15 @@ I take ownership of defining of done.
 - [ ] Database design
 
 ## Ready to make it
+**Not yet.**
+
 ### <a name="wawd"></a>What are we doing?
-TBD
+1. [Learn about node.js security](https://github.com/iamacoderguy/projectB/issues/1) :heavy_check_mark:
+1. [Learn about non-relational DB](https://github.com/iamacoderguy/projectB/issues/2)
+
+I will define the requirements and apis so that they will match to my the DB knowledge I'd like to learn. <br/>
+Then I will develop the system, and try to attack it with the security knowledge. <br/>
+Sharing the security knowledge after fixing the threats and vulnerability would be the final step for this project.
 
 ### Why will a customer want this?
 It can help me to learn about basics of database and security.
@@ -64,5 +71,6 @@ It can help me to learn about basics of database and security.
 TBD
 
 ### Scale and scope
-For the 1st month, Oct 12 to Nov 8: I will focus on developing the back-end server integrating to MongoDB and providing the movies service
+For the 1st month, Oct 12 to Nov 8: I will focus on developing the back-end server integrating to MongoDB and providing the movies service.
+
 For the 2nd month, Nov 9 to Dec 6: I will focus on attacking and defending my server
