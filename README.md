@@ -51,7 +51,6 @@ I take ownership of defining of done. <br/>
 - [ ] Database design
 
 ## Ready to make it
-**Not yet.**
 
 ### <a name="wawd"></a>What are we doing?
 1. [Learn about node.js security](https://github.com/iamacoderguy/projectB/issues/1) :heavy_check_mark:
