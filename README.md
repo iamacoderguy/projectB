@@ -56,7 +56,8 @@ I take ownership of defining of done. <br/>
 ### <a name="wawd"></a>What are we doing?
 1. [Learn about node.js security](https://github.com/iamacoderguy/projectB/issues/1) :heavy_check_mark:
 1. [Learn about non-relational DB](https://github.com/iamacoderguy/projectB/issues/2) :heavy_check_mark:
-1. [Define detailed requirements](https://github.com/iamacoderguy/projectB/issues/4)
+1. [Define detailed requirements](https://github.com/iamacoderguy/projectB/issues/4) :heavy_check_mark:
+1. Develop the system
 
 I will define the requirements and APIs so that they will match to the DB knowledge I'd like to learn. <br/>
 Then I will develop the system, and try to attack it with the security knowledge. <br/>
