@@ -1,0 +1,3 @@
+server/_logs/
+server/_coverage/
+server/node_modules/
