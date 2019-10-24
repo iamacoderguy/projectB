@@ -1,0 +1,35 @@
+{
+  "name": "serverb",
+  "version": "0.0.1",
+  "description": "for saving and sharing your favorite movies lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node index.js",
+    "debug": "cross-env-shell DEBUG='serverb:*' b_customVariable='1234' \"nodemon index.js\"",
+    "test_debug": "cross-env DEBUG='serverb:*' jest --watch --verbose",
+    "generate_api_docs": "apidoc -i .\\routes\\ -o .\\public\\apidoc\\"
+  },
+  "engines": {
+    "node": "12.13.0"
+  },
+  "jest": {
+    "coverageDirectory": "_coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "1.7.4",
+    "config": "3.2.3",
+    "debug": "4.1.1",
+    "express": "4.17.1",
+    "express-async-errors": "3.1.1",
+    "helmet": "3.21.2",
+    "morgan": "1.9.1",
+    "winston": "3.2.1"
+  },
+  "devDependencies": {
+    "cross-env": "6.0.3",
+    "supertest": "4.0.2"
+  }
+}
